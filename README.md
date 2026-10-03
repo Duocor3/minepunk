@@ -1,4 +1,4 @@
-# Minecraft × Cyberpunk 2077 passthrough
+# Minepunk: Minecraft x Cyberpunk 2077
 
 Real Minecraft Java running inside Cyberpunk 2077. Steve replaces V, and Minecraft's items work in Night City:
 
@@ -44,8 +44,8 @@ Building also needs:
 ## Build
 
 ```powershell
-git clone https://github.com/Duocor3/minecraft-cyberpunk-passthrough
-cd minecraft-cyberpunk-passthrough
+git clone https://github.com/Duocor3/minepunk
+cd minepunk
 
 # Cyberpunk plugin: fetch the RED4ext SDK + ReShade headers, then build MCPassthrough.dll
 cd cyberpunk
