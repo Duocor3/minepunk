@@ -1,0 +1,14 @@
+# build outputs and downloaded dependencies
+cyberpunk/build/
+cyberpunk/third_party/
+minecraft/build/
+minecraft/run/
+minecraft/.gradle/
+.gradle/
+# crash dumps and logs
+hs_err_*.log
+replay_*.log
+*.log
+# editor
+.vscode/
+.idea/

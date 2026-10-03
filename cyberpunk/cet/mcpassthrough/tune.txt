@@ -1,0 +1,23 @@
+fovScale = 1.0
+fovIsHorizontal = false
+# how many ticks old the camera of the picture on screen is (0..6)
+poseLag = 0
+# Steve replaces V
+hideV = true
+hideHud = true
+thirdPerson = false
+tpBack = 6.0
+tpUp = 0.7
+tpSide = 0.0
+# V can't fight at all (off: clicks go to Minecraft anyway, and enemies won't fight a no-combat V)
+noCombat = false
+# extra jump (m/s) while Steve is out
+jumpBoost = 1.2
+# elytra turn speed (degrees per mouse count)
+flySens = 0.06
+# teleport (change the number): 1 = Megabuilding H8 roof (glide), 2 = Jig-Jig Street, 3 = Corpo Plaza, 4 = Sniper's Perch, 5 = North Oak sign
+go = 0
+# police heat 0-5 (5 = MaxTac)
+wanted = 0
+# change this number to drop to the street, call MaxTac and come back
+maxtac = 0
